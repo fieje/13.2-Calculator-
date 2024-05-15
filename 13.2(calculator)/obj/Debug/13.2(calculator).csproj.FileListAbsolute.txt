@@ -1,0 +1,7 @@
+D:\Visual Studio projects\13.2(calculator)\13.2(calculator)\bin\Debug\13.2(calculator).exe.config
+D:\Visual Studio projects\13.2(calculator)\13.2(calculator)\bin\Debug\13.2(calculator).exe
+D:\Visual Studio projects\13.2(calculator)\13.2(calculator)\bin\Debug\13.2(calculator).pdb
+D:\Visual Studio projects\13.2(calculator)\13.2(calculator)\obj\Debug\13.2(calculator).csproj.AssemblyReference.cache
+D:\Visual Studio projects\13.2(calculator)\13.2(calculator)\obj\Debug\13.2(calculator).csproj.CoreCompileInputs.cache
+D:\Visual Studio projects\13.2(calculator)\13.2(calculator)\obj\Debug\13.2(calculator).exe
+D:\Visual Studio projects\13.2(calculator)\13.2(calculator)\obj\Debug\13.2(calculator).pdb
